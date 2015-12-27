@@ -1,5 +1,5 @@
 # Author: Ninjoh
-# Github repository:
+# Github repository: https://github.com/martijn-heil/LimitedEnchanting
 #
 # Items to prevent enchanting, bukkit material name (Not ID!, for example: DIAMOND_SWORD)
 # For further information see: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
