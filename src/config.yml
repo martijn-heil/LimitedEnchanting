@@ -1,0 +1,13 @@
+# Author: Ninjoh
+# Github repository:
+#
+# Items to prevent enchanting, bukkit material name (Not ID!, for example: DIAMOND_SWORD)
+# For further information see: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+items:
+  - 'DIAMOND_SWORD'
+  - 'BOW'
+
+# Message to send to the player when enchantment is cancelled
+message:
+  sendMessage: true
+  cancelledEnchantMessage: 'This item cannot be enchanted!'
